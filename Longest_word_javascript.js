@@ -1,3 +1,6 @@
+// Javascript Algorithm | How to find the LONGEST WORD in a string/phrase
+// Truzz Blogg
+
 //Algorithm number 1:
 
 function findLongestWord(str) {
